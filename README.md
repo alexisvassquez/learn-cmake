@@ -9,6 +9,6 @@
 <ul>Python, if you want to explore Python integration with CMake.</ul></p>
 
 # Cloning This Repository
-<p>To clone this repository, run the following command:</p>
-<p><br>git clone https://github.com/alexisvassquez/learn-cmake</br>
+<p><br>To clone this repository, run the following command:</br>
+<br>git clone https://github.com/alexisvassquez/learn-cmake</br>
 <br>cd learn-cmake</br></p>
