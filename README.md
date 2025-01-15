@@ -11,4 +11,4 @@
 # Cloning This Repository
 To clone this repository, run the following command:
 <br>git clone https://github.com/alexisvassquez/learn-cmake</br>
-<br>cd learn-cmake</br>
+cd learn-cmake
